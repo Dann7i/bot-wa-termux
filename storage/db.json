@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "6282129955815@s.whatsapp.net",
+      "name": "Dan",
+      "xp": 0,
+      "level": 1,
+      "uang": 100
+    }
+  ],
+  "groups": [],
+  "premiumUsers": [
+    "6282129955815@s.whatsapp.net"
+  ],
+  "commandSettings": {
+    "fiturpremium": {
+      "isPremium": true
+    },
+    "fiturlain": {
+      "isPremium": false
+    }
+    
+  }
+}
