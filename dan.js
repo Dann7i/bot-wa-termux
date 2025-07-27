@@ -5,7 +5,7 @@ import {
   isJidNewsletter
 } from '@whiskeysockets/baileys';
 import { Boom } from '@hapi/boom';
-import './storage/project.js'; // Memuat konfigurasi global
+import './storage/project.js'; 
 import pino from 'pino';
 import fs from 'fs';
 import { readdirSync } from 'fs';
